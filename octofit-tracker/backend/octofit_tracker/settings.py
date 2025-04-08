@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-(vuqel(z@a4inx@qve!p*_a($!v3=e*6m@6q-0s++6^rl!%xei
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'zany-palm-tree-pvqjxr5x5q6cr9vj-8000.app.github.dev']
 
 
 # Application definition
